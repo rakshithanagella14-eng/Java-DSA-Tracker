@@ -28,5 +28,5 @@ public class switchLoop {
                 break; }
         sc.close();
 
-    }
+    } 
 }   
